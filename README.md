@@ -42,18 +42,16 @@ Ensure you have the following installed:
 - Docker (optional, for containerized deployment)
 
 ### Installation
-1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/Laptop_Recommendation_Chatbot_No_RAG.git
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 cd Laptop_Recommendation_Chatbot_No_RAG
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
 
 - Please note: OpenAI/Gemini API keys are required for the project to function. You can obtain them from the OpenAI website and change the same in the code.
 
-4. Run the main file from Jupyter environment:
+3. Run the main file from Jupyter environment:
 "Laptop_Recommendation_Project_Version_1.ipynb"
 
 ---
@@ -77,14 +75,5 @@ No documentation will be made available for this project since this project only
 
 ## 🛡️ License
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 💬 Contact
-For any queries or feedback, feel free to reach out:
-
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
 
 ---
